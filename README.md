@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a Junior Full Stack Developer with a passion for technology, problem-solving, and continuous learning. After 20 years in finance and data-driven strategy, I made the exciting transition into software development, enabled by the Code Institute bootcamp and supported by Headforwards.
+I'm a Full Stack Developer with a passion for technology, problem-solving, and continuous learning. After 20 years in finance and data-driven strategy, I made the exciting transition into software development, enabled by the Code Institute bootcamp and supported by Headforwards.
 
 I love working with Python, JavaScript, SQL, and Django, building projects that combine data, automation, and web development. Always curious and eager to learn, I thrive on exploring new technologies and creating efficient, scalable solutions.
 
